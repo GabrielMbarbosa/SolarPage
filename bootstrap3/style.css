@@ -1,0 +1,183 @@
+#nav{
+    width: 80%;
+    height: 55px;
+    margin: auto;
+}
+
+#container{
+    width: 100%;
+    height: 75vh;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#conteudo-principal{
+    width: 80%;
+    height: 400px;
+    background-image: url(img/Como-instalar-energia-solar-no-seu-imóvel.webp);
+    border-radius: 50px;
+}
+
+#services{
+    width: 100%;
+    height: 75vh;
+    display: flex;
+    justify-content: center;
+}
+
+#conteudo-service{
+    width: 75%;
+    height: 450px;
+}
+
+#cartoes{
+    width: 100%;
+    height: 75vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f4f4f4;
+}
+
+#cards{
+    width: 75%;
+    height: 450px;
+}
+
+#sobre{
+    width: 100%;
+    height: 75vh;
+    display: flex;
+    justify-content: center;
+    background-color: red;
+}
+
+#sobre-nos{
+    width: 75%;
+    height: 450px;
+}
+
+#what{
+    width: 100%;
+    height: 75vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#what-we-do{
+    width: 75%;
+    height: 450px;
+}
+
+#pe{
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #000000;
+}
+
+#roda-pe{
+    width: 75%;
+    height: 70px;
+    margin-top: 15px;
+}
+
+#rada-pe-2{
+    width: 75%;
+    height: 60%;
+}
+
+#hr-pe{
+    color: #f4f4f4;
+    width: 100%;
+}
+
+#img-pe{
+    width: 45px; 
+    height: 45px;
+}
+
+#logo-img{
+    width: 35px;
+}
+
+.bg-text{
+    width: 55px;
+    height: 400px;
+    background: linear-gradient(to left, #00000000, #00000076 50%, #000000 75%, #000000 75%);
+    display: flex;
+    align-items: center;
+    border-radius: 50px;
+
+}
+
+.text-red{
+    color: red;
+}
+
+#texto{
+    width: 17rem;
+    font-size: 45px;
+    margin-left: 55px;
+}
+
+.card-img-overlay{
+    width: 100%;
+    height: 20rem;
+    background: linear-gradient(to top, #00000006, #00000017 50%, #000000 75%, #000000 75%);   
+}
+
+#card-1{
+    background-color: #f4f4f4;
+    font-size: large;
+}
+
+#card-red{
+    background-color: red;
+}
+
+#foto-1{
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+#button-1, #button-2{
+    width: 155px;
+    height: 35px;
+    font-size: 15px;
+}
+
+#button-2{
+    background-color: #000000;
+    color: white;
+}
+
+#button-2:hover{
+    background-color: #151515;
+}
+
+#img-cards{
+    width: 35px;
+}
+
+#img-card-cs{
+    width: 39px;
+}
+
+#img-card-center{
+    width: 270px;
+    border-radius: 25px;
+}
+
+.card-body{
+    background-color: #f4f4f4;
+    border-radius: 5px;
+}
+
+.cards-body{
+    margin: 15px;
+}
