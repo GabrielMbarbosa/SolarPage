@@ -1,5 +1,5 @@
 # SolarPage
-Pagina feita com html css e Bootstrap
+Pagina feita com Bootstrap
 ![Captura de tela de 2024-05-26 23-56-06](https://github.com/GabrielMbarbosa/SolarPage/assets/109046409/e43c03d6-4e18-4f6c-88ca-2939c10211d4)
 ![Captura de tela de 2024-05-26 23-56-13](https://github.com/GabrielMbarbosa/SolarPage/assets/109046409/b19d87ca-ab87-4c66-8fc6-b1e468cbdd39)
 ![Captura de tela de 2024-05-26 23-56-20](https://github.com/GabrielMbarbosa/SolarPage/assets/109046409/ca6d6c11-46f3-4626-a7c3-bd915161ce65)
